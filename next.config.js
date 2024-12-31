@@ -4,9 +4,7 @@ const nextConfig = {
   typescript:{
     ignoreBuildErrors:true
   },
-  experimental: {
-    outputFileTracing: true
-  },
+  output: "standalone"
 };
 
 module.exports = nextConfig;
