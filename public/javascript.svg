@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <!-- Yellow Background -->
+  <rect width="128" height="128" fill="#F7DF1E" />
+
+  <!-- JS Text -->
+  <text
+    x="32"
+    y="96"
+    font-family="Arial, sans-serif"
+    font-size="72"
+    font-weight="bold"
+    fill="#000000">
+    JS
+  </text>
+</svg>
