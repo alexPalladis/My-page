@@ -90,7 +90,7 @@ export const navItems = [
       title: "DocNow",
       des: "DocNow is a user-friendly appointment scheduling platform that connects patients with doctors effortlessly. With DocNow, patients can browse a list of available doctors, check their schedules, and book appointments instantly.",
       img: "/docNow.svg",
-      iconLists: ["/re.svg","next.svg", "/tail.svg", "/node.svg","/appwrite.svg"],
+      iconLists: ["/re.svg","next.svg", "/tail.svg","/ts.svg", "/node.svg","/appwrite.svg"],
       link: "https://doc-now-21660c7a60b3.herokuapp.com/",
     },
     {
