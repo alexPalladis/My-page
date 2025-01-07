@@ -71,7 +71,7 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "BankBuddy App",
+      title: "BankBuddy",
       des: "A modern banking web application to manage accounts, view transaction history, transfer funds, and connect to financial services securely and efficiently.",
       img: "/banking.svg",
       iconLists: ["/re.svg", "next.svg","/tail.svg", "/ts.svg",'/appwrite.svg'],
@@ -79,7 +79,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "DreamHome App",
+      title: "DreamHome",
       des: "DreamHome App is an innovative platform designed for users to showcase their dream homes, connect with landlords, and manage their profiles with ease. It offers a seamless experience for house hunting and communication within a user-friendly interface.",
       img: "/dream.svg",
       iconLists: ["/re.svg","/node.svg", "/tail.svg", "/ts.svg", "/mongo.svg"],
@@ -87,14 +87,22 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "FavPlaces App",
+      title: "DocNow",
+      des: "DocNow is a user-friendly appointment scheduling platform that connects patients with doctors effortlessly. With DocNow, patients can browse a list of available doctors, check their schedules, and book appointments instantly.",
+      img: "/docNow.svg",
+      iconLists: ["/re.svg","next.svg", "/tail.svg", "/node.svg","/appwrite.svg"],
+      link: "https://doc-now-21660c7a60b3.herokuapp.com/",
+    },
+    {
+      id: 4,
+      title: "FavPlaces",
       des: "FavPlaces is a full-stack web application where users can create an account, upload images of their favorite places around the world, and view them on an interactive Google Maps interface. The app is built using React for the frontend, Node.js and Express for the backend, and MongoDB with Mongoose for the database.",
       img: "/fav.svg",
       iconLists: ["/re.svg", "/tail.svg", "/node.svg", "/javascript.svg","/mongo.svg"],
       link: "https://main.d3kwcjrbt2gy3t.amplifyapp.com/",
     },
     {
-      id: 4,
+      id: 5,
       title: "Workout Manager App",
       des: "A full-stack MERN application to help users add, manage, and track their workouts with user authentication and secure data handling.",
       img: "/workout.svg",
