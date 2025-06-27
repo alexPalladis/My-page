@@ -114,20 +114,28 @@ export const navItems = [
  
   
   export const workExperience = [
-    {
+     {
       id: 1,
+      title: "Junior Software Engineer",
+      desc: "Currently, I am working as a Junior Software Engineer at a company where I am involved in developing and maintaining web applications. This role has allowed me to apply my skills in a professional setting, collaborate with a team, and contribute to real-world projects.",
+      className: "md:col-span-2",
+      thumbnail: "/exp4.svg",
+    },
+    {
+      id: 2,
       title: "Full Stack Developer",
-      desc: "I have been working as a freelance developer for the past year, independently handling and delivering various projects. This ongoing experience has helped me enhance my skills in full-stack development and problem-solving. I continue to adapt, learn new technologies, and deliver effective solutions.",
+      desc: "I have been working as a freelance developer for one and a half year, independently handling and delivering various projects. This ongoing experience has helped me enhance my skills in full-stack development and problem-solving. I continue to adapt, learn new technologies, and deliver effective solutions.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
-      id: 2,
+      id: 3,
       title: "Former Military Officer",
       desc: "I previously served as a military officer for 11 years, where I developed leadership, discipline, and teamwork skills. My role required strategic thinking, decision-making under pressure, and adaptability. This experience shaped my ability to excel in high-stakes environments.",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
-    },
+    }
+   
   ];
   
   export const socialMedia = [
