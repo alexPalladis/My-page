@@ -75,7 +75,7 @@ export const navItems = [
       des: "A modern banking web application to manage accounts, view transaction history, transfer funds, and connect to financial services securely and efficiently.",
       img: "/banking.svg",
       iconLists: ["/re.svg", "next.svg","/tail.svg", "/ts.svg",'/appwrite.svg'],
-      link: "https://banking-app-01c9d8999292.herokuapp.com/",
+      link: "https://banking-app-liart-kappa.vercel.app/sign-in",
     },
     {
       id: 2,
@@ -91,7 +91,7 @@ export const navItems = [
       des: "DocNow is a user-friendly appointment scheduling platform that connects patients with doctors effortlessly. With DocNow, patients can browse a list of available doctors, check their schedules, and book appointments instantly.",
       img: "/docNow.svg",
       iconLists: ["/re.svg","next.svg", "/tail.svg","/ts.svg", "/node.svg","/appwrite.svg"],
-      link: "https://doc-now-21660c7a60b3.herokuapp.com/",
+      link: "https://doc-now-git-deployment-alexs-projects-003c66dd.vercel.app/",
     },
     {
       id: 4,
