@@ -83,7 +83,7 @@ export const navItems = [
       des: "DreamHome App is an innovative platform designed for users to showcase their dream homes, connect with landlords, and manage their profiles with ease. It offers a seamless experience for house hunting and communication within a user-friendly interface.",
       img: "/dream.svg",
       iconLists: ["/re.svg","/node.svg", "/tail.svg", "/ts.svg", "/mongo.svg"],
-      link: "https://main.d2v5tsefsm99cr.amplifyapp.com/",
+      link: "https://estate-app-pied.vercel.app/",
     },
     {
       id: 3,
