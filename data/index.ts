@@ -99,7 +99,7 @@ export const navItems = [
       des: "FavPlaces is a full-stack web application where users can create an account, upload images of their favorite places around the world, and view them on an interactive Google Maps interface. The app is built using React for the frontend, Node.js and Express for the backend, and MongoDB with Mongoose for the database.",
       img: "/fav.svg",
       iconLists: ["/re.svg", "/tail.svg", "/node.svg", "/javascript.svg","/mongo.svg"],
-      link: "https://main.d3kwcjrbt2gy3t.amplifyapp.com/",
+      link: "https://fav-places-ecru.vercel.app/",
     },
     {
       id: 5,
