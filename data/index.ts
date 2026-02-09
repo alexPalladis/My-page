@@ -89,7 +89,7 @@ export const projects = [
     id: 3,
     title: "RecipeHub",
     des: "Application for creating, viewing, and executing recipes with photos and step-by-step instructions. Dockerized backend and database with REST API integration",
-    img: "/recipe.png",
+    img: "/recipe.webp",
     iconLists: ["/re.svg", "/java.svg", "/sql.svg"],
     link: "https://recipes.alexandros-palladis.com/",
   },
