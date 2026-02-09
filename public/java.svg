@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="32" height="32">
+  <!-- Background circle matching your other tech icons -->
+  <circle cx="32" cy="32" r="30" fill="#0b1220"/>
+
+  <!-- Steam (red like classic Java colors) -->
+  <path d="M26 16c4 5 1 8-2 11-3 3-6 6-3 10"
+        fill="none" stroke="#ff4d4d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M32 14c5 6 2 10-2 14-3 4-7 7-3 13"
+        fill="none" stroke="#ff4d4d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M38 16c4 5 1 8-2 11-3 3-6 6-3 10"
+        fill="none" stroke="#ff4d4d" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Cup -->
+  <rect x="20" y="30" width="24" height="16" rx="4"
+        fill="none" stroke="#61dafb" stroke-width="3"/>
+
+  <!-- Cup rim -->
+  <path d="M20 34h24"
+        fill="none" stroke="#61dafb" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Handle -->
+  <path d="M44 32h4c5 0 9 4 9 9s-4 9-9 9h-4"
+        fill="none" stroke="#61dafb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M44 36h3c3 0 5 2 5 5s-2 5-5 5h-3"
+        fill="none" stroke="#61dafb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Saucer -->
+  <path d="M18 50c5 4 12 6 14 6s9-2 14-6"
+        fill="none" stroke="#61dafb" stroke-width="3" stroke-linecap="round"/>
+</svg>
