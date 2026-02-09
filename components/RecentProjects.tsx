@@ -25,7 +25,7 @@ const RecentProjects = () => {
                   alt={title}
                   className={`z-10 absolute bottom-0 ${
                     id === 3
-                      ? "w-[80%] h-[80%] object-contain left-1/2 -translate-x-1/2"
+                      ? "w-[80%] h-[80%] object-contain left-1/2 -translate-x-1/2 bottom-6"
                       : ""
                   }`}
                 />
